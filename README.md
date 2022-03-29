@@ -5,11 +5,11 @@ Every assets is in its relative folder. The document icons that I've reworked ar
 
 <img 
   src="https://user-images.githubusercontent.com/101254295/160562176-1587d54e-3266-41a5-84f5-1d16752754ab.png"
-  width="45%"
+  width="50%"
   align="left"
 />
 <img 
   src="https://user-images.githubusercontent.com/101254295/160562202-e2d15417-50bb-4746-9cf9-a6f56aede7e7.png"
-  width="45%"
+  width="50%"
   align="right"
 />
