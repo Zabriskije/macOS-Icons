@@ -1,4 +1,4 @@
-<h1 align="center">MacOS Icons</h1>
+<h1 align="center">macOS Icons</h1>
 
 In this repo you'll find free-to-use app icons, document icons and Pixelmator templates that I've made.<br>
 The document icons that I've reworked are for IINA, Keka, VSCode/VSCodium & CodeRunner ― or any IDE, since they're not branded (in case you want to use them with other IDEs, I advice to choose the CodeRunner one, since it's more complete).<br>
