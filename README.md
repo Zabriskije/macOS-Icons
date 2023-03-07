@@ -7,4 +7,4 @@ You can also find my app icons on <a target="_blank" href="https://macosicons.co
 Officially used in BTTV for Safari, IINA, Mochi Diffusion, Spamify and TomatoBar &nbsp;🥳
 
 <br>
-<img width="100%" src="https://user-images.githubusercontent.com/101254295/218262985-a369b173-498e-4350-a1bb-20d203207775.png">
+<img width="100%" src="https://user-images.githubusercontent.com/101254295/223478837-0087a5a5-2823-4a2f-8a77-58ff3ec6dcd5.png">
