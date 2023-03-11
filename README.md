@@ -1,6 +1,6 @@
 <h1 align="center">macOS Icons</h1>
 
-<p align="center">Free-to-use app icons, document icons and Pixelmator templates.</p>
+<p align="center">Free-to-use app icons, document icons, and Pixelmator templates</p>
 
 <br>
 <img width="100%" src="https://user-images.githubusercontent.com/101254295/223488243-17959b0c-d54b-4bec-ab5b-ddd83ea0efb0.png">
