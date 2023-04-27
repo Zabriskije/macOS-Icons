@@ -3,7 +3,7 @@
 <p align="center">Free-to-use app icons, document icons, and Pixelmator templates</p>
 
 <br>
-<img src="https://user-images.githubusercontent.com/101254295/223488243-17959b0c-d54b-4bec-ab5b-ddd83ea0efb0.png">
+<img src="https://user-images.githubusercontent.com/101254295/234857706-1e0cb23e-a36f-42db-b760-17eab6c9c815.png">
 <br>
 
 Officially used in [BarBox](https://github.com/MuhammedKpln/barbox), [BTTV for Safari](https://github.com/strumswell/BTTV-for-Safari), [IINA](https://github.com/iina/iina), [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements), [Mochi Diffusion](https://github.com/godly-devotion/MochiDiffusion), and [TomatoBar](https://github.com/ivoronin/TomatoBar).
