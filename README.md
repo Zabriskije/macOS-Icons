@@ -10,4 +10,4 @@ Officially used in [Amethyst](https://github.com/ianyh/Amethyst), [BarBox](https
 
 The document icons that I've reworked are for IINA, Keka, VSCode/VSCodium & CodeRunner ― or any code editor (in this case I advice to choose the CodeRunner one, since it's more complete).
 
-You can also find my app icons on <a target="_blank" href="https://macosicons.com/#/u/Zabriskije">macOSicons</a>.
+You can also find my app icons on <a target="_blank" href="https://macosicons.com/#/u/zabriskije">macOSicons</a>.
